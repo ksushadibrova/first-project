@@ -1,0 +1,37 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>M&M Cookies</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>M&M Cookies</h1>
+    <p>If you need to know how to cook, you actually need to know only one recipe. Because you can always order any food, but the dessert has to be made with love and joy. Don't worry, it's really easy! Enjoy!</p>
+    <figure>
+      <img src="https://i.postimg.cc/1549wFrc/cookies.jpg" alt="A photo of M&M Cookies with a glass of milk and decorative flowers">
+    </figure>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1 cup of sugar</li>
+      <li>1 cup of butter</li>
+      <li>2 cups of flour</li>
+      <li>1 egg</li>
+      <li>1 tsp of baking soda</li>
+      <li>1 cup of M&Ms</li>
+      <li>1 eternity of joy and love</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Mix butter and sugar</li>
+      <li>Add an egg</li>
+      <li>Add flour and baking soda</li>
+      <li>Stir in M&Ms</li>
+      <li>Bake for 10 minutes at 180°C</li>
+    </ol>
+  </body>
+</html>
+
+** end of index.html **
+
